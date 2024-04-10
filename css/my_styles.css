@@ -1,0 +1,22 @@
+.homebg {
+    background-image: url('../images/background.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.txt_box {
+    background-color: white;
+    width: 1000px;
+    padding: 5px;
+}
+.title_font {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+}
+.link_color {
+    color: green;
+}
+.video {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
